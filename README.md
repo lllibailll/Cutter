@@ -1,5 +1,5 @@
 # Cutter
-Cutter is a very basic url shortener that I am using myself at https://go.ibai.dev.
+Cutter is a very basic url shortener.
 
 It has been built using [Rust](https://www.rust-lang.org/), [Rocket.rs](https://rocket.rs/) and [Diesel.rs](https://diesel.rs/).
 
